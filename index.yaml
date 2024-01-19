@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  grocy:
+  - apiVersion: v2
+    appVersion: v4.0.3-2
+    created: "2024-01-19T17:47:46.093902242Z"
+    description: A Helm chart for Kubernetes
+    digest: 288b1633c54ec50b8386d0ca8091397133dda7ca261d4bbe4dd7d2da0ef9dd57
+    maintainers:
+    - name: scottevtuch
+    name: grocy
+    sources:
+    - https://github.com/ScottEvtuch/grocy-helm
+    type: application
+    urls:
+    - https://github.com/ScottEvtuch/grocy-helm/releases/download/grocy-1.0.0/grocy-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-01-19T17:47:46.094059516Z"
